@@ -1,1 +1,1 @@
-this is  my first repo 
+echo "welcome to git learning" 
